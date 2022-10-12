@@ -1,0 +1,15 @@
+<svg width="134" height="135" xmlns="http://www.w3.org/2000/svg" fill="none">
+
+    <g>
+        <title>Layer 1</title>
+        <circle id="svg_1" fill="#590D56" r="67" cy="67.0076" cx="67"/>
+        <g>
+            <line stroke="white" y2="69.00002" x2="58" y1="69.00002" x1="0"/>
+            <path stroke="white" d="m33.5,33.99999l-33.5,35.00003l33.5,32"/>
+        </g>
+        <g>
+            <path stroke="white" d="m133,69.00002l-78,0"/>
+            <path stroke="white" d="m99.5,104.00002l33.5,-35l-33.5,-32.00003"/>
+        </g>
+    </g>
+</svg>
